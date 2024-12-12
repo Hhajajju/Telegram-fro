@@ -4,7 +4,7 @@ let referralEarnings = 0.000; // Referral earnings
 let claimAmounts = 0.005; // Reward for each claim
 
 // API URL (replace with actual backend URLs)
-const apiUrl = "https://your-backend-api.com";
+const apiUrl = "telegram-ser.vercel.app";
 
 // Show the section when clicked
 function showSection(sectionId) {
